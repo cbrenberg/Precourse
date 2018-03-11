@@ -1,6 +1,16 @@
 <!--
+/*
+{
+text-align: center !important;
+margin: auto !important;
+padding: 5px;
+}*/
 h1 {
   color: darkolivegreen;
+}
+.divClass {
+  width: 500px;
+  text-align: center;
 }
 img {
   width: 400px;
@@ -12,8 +22,18 @@ img {
   padding: 50px;
   border: 2px solid darkslategray;
 }
+#flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
 .spanId {
   font-size: 18px;
   margin: 50px;
+  width: 500px
+}
+ul {
+  list-style-type: none;
 }
 -->
