@@ -37,7 +37,7 @@ function addReverseString() {
   };
 }
 
-// Do not modify code below this line.
+// Do not modify code below this line
 // --------------------------------
 
 module.exports = {
